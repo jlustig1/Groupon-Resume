@@ -55,7 +55,7 @@ h2 {
   border-radius: 9px;
   color: black;
   padding: .5px 5px 5px 10px;
-  margin: 25px auto;
+  margin: 8px auto;
   width: 92%;
 }
 
@@ -63,15 +63,20 @@ h2 {
   margin-top: 38px;
 }
 
-p, h4, ul {
-  margin-top: 0;
+h3 {
+  margin-top: 4px;
 }
 
 h3, h4 {
   margin-bottom: 0;
-
 }
 
-h3 {
-  margin-top: 4px;
+p, h4, ul {
+  margin-top: 0;
 }
+
+.h4 {
+  margin-bottom: 8px;
+}
+
+
